@@ -1,0 +1,184 @@
+[
+    {
+      "id": 1,
+      "name": "Vestido Blogueira",
+      "price": 150.0,
+      "promoPrice": 120.0,
+      "images": ["public/vestidoBlogueira1.png", "public/vestidoBlogueira2.png", "public/vestidoBlogueira3.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G", "GG"],
+      "cor": "Bege"
+    },
+    {
+      "id": 2,
+      "name": "Vestido Muscle Tee",
+      "price": 180.0,
+      "promoPrice": null,
+      "images": ["public/vestidoMuscleTee1.png", "public/vestidoMuscleTee2.png","public/vestidoMuscleTee3.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Preto"
+    },
+    {
+      "id": 3,
+      "name": "Vestido Espaguete",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/vestidoEspaguete1.png", "public/vestidoEspaguete2.png", "public/vestidoEspaguete3.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Sólida"
+    },
+    {
+      "id": 4,
+      "name": "Vestido Sol",
+      "price": 200.0,
+      "promoPrice": null,
+      "images": ["public/vestidoSol1.png", "public/vestidoSol2.png", "public/vestidoSol3.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G", "GG"],
+      "cor": "Bege"
+    },
+    {
+      "id": 5,
+      "name": "Vestido Jadi",
+      "price": 120.0,
+      "promoPrice": 90.0,
+      "images": ["public/vestidoJadi.png", "public/vestidoJadi2.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Verde"
+    },
+    {
+      "id": 6,
+      "name": "Vestido Nadador",
+      "price": 120.0,
+      "promoPrice": 90.0,
+      "images": ["public/vestidoNadador1.png", "public/vestidoNadador2.png"],
+      "category": "vestidos",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Azul Céu"
+    },
+    {
+      "id": 7,
+      "name": "Calça de Alfaiataria",
+      "price": 150.0,
+      "promoPrice": 120.0,
+      "images": ["public/calcaAlfaiataria.png", "public/calcaAlfaiataria2.png", "public/calcaAlfaiataria3.png"],
+      "category": "calcas",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Branco"
+    },
+    {
+      "id": 8,
+      "name": "Calça Cargo Jeans",
+      "price": 180.0,
+      "promoPrice": null,
+      "images": ["public/calcaCargo.png", "public/calcaCargo2.png"],
+      "category": "calcas",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Jeans"
+    },
+    {
+      "id": 9,
+      "name": "Calça Pantalona",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/calcaPantalona1.png", "public/calcaPantalona2.png", "public/calcaPantalona3.png"],
+      "category": "calcas",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Preto"
+    },
+    {
+      "id": 10,
+      "name": "Calça Wide Leg",
+      "price": 150.0,
+      "promoPrice": null,
+      "images": ["public/calcaWideLeg1.png", "public/calcaWideLeg2.png", "public/calcaWideLeg3.png"],
+      "category": "calcas",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Bege"
+    },
+    {
+      "id": 11,
+      "name": "Cropped T Shirt",
+      "price": 100.0,
+      "promoPrice": 70.0,
+      "images": ["public/croppedTShirt1.png", "public/croppedTShirt2.png", "public/croppedTShirt3.png"],
+      "category": "cropped",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Bege"
+    },
+    {
+      "id": 12,
+      "name": "Cropped de Botao",
+      "price": 130.0,
+      "promoPrice": 99.0,
+      "images": ["public/croppedBotao1.png", "public/croppedBotao2.png"],
+      "category": "cropped",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Branco"
+    },
+    {
+      "id": 13,
+      "name": "Cropped Ciganinha",
+      "price": 60.0,
+      "promoPrice": null,
+      "images": ["public/croppedCiganinha1.png", "public/croppedCiganinha2.png", "public/croppedCiganinha3.png"],
+      "category": "cropped",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Rosa"
+    },
+    {
+      "id": 14,
+      "name": "Cropped Frente Única",
+      "price": 60.0,
+      "promoPrice": 40.0,
+      "images": ["public/croppedFrenteUnica1.png", "public/croppedFrenteUnica2.png"],
+      "category": "cropped",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "preto"
+    },
+    {
+      "id": 15,
+      "name": "Short Jeans",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/shortJeans1.png", "public/shortJeans2.png", "public/shortJeans3.png"],
+      "category": "shorts",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Jeans"
+    },
+    {
+      "id": 16,
+      "name": "Short Alfaiataria",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/shortAlfaiataria1.png"],
+      "category": "shorts",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Cinza"
+    },
+    {
+      "id": 17,
+      "name": "Short Cargo",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/shortCargo1.png", "public/shortCargo2.png", "public/shortCargo3.png"],
+      "category": "shorts",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "Verde"
+    },
+    {
+      "id": 18,
+      "name": "Short Alfaiataria Verde",
+      "price": 200.0,
+      "promoPrice": 170.0,
+      "images": ["public/shortAlfaiatariaCBolso1.png", "public/shortAlfaiatariaCBolso2.png"],
+      "category": "shorts",
+      "tamanhos": ["P", "M", "G"],
+      "cor": "verde"
+    }
+    
+  ]
+  

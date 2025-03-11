@@ -1,0 +1,102 @@
+#product-slider {
+    width: 400px;
+}
+
+#product-slider img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  #product-info {
+    padding: 20px;
+  }
+  
+  #product-info h1 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  #product-info p {
+    margin: 0.5rem 0;
+  }
+  
+  #product-info button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  
+ 
+
+  .carousel-inner img {
+    width: 100%; 
+    max-height: 06050px; 
+    object-fit: cover; 
+    border-radius: 8px; 
+  }
+
+  .banner img {
+    width: 100%; 
+    max-height: 350px; 
+    object-fit: cover; 
+    border-radius: 8px; 
+  }
+
+ 
+  .custom-navbar {
+    background-color: white; 
+    color: #ff83a8; 
+  }
+
+  .logo {
+    width: 50px;
+  }
+  
+  .navbar-brand {
+    padding: 0;
+  }
+
+  .nav-link {
+    color: black;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .nav-link:hover {
+    background-color: #ff83a8;
+    color: white;
+    height: 100%;
+  }
+
+  .btn {
+    background-color: #ff83a8;
+    border: 1px solid white;
+  }
+
+  .btn:hover {
+    background-color:white ;
+    border: 1px solid #ff83a8;
+    color: #ff83a8;
+  }
+
+  .btn-link {
+    text-decoration: none;
+    background-color: white;
+    color: #ff83a8;
+    border: 1px solid #ff83a8;
+  }
+
+  .btn-link:hover {
+    background-color: #ff83a8;
+    color: white;
+  }
+
+  .wpp {
+    background-color: rgb(2, 48, 2);
+  }
+
+  .product-title {
+    text-decoration: none;
+    color: black;
+  }
